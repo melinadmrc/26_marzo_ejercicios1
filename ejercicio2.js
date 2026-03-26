@@ -1,4 +1,6 @@
+
 // 2. Dibujar figuras con asteriscos
+//   \n - salto de línea
 
 const lado = 4; 
 const contenedor = document.getElementById("figuras");
